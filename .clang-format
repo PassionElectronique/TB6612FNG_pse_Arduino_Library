@@ -1,0 +1,7 @@
+BasedOnStyle: Chromium
+IndentWidth: 2
+
+Language: Cpp
+ColumnLimit: 170
+BreakBeforeBraces: Attach
+MaxEmptyLinesToKeep: 2
